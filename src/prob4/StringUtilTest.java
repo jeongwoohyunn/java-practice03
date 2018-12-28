@@ -1,6 +1,6 @@
 package prob4;
 
-public class Prob4 {
+public class StringUtilTest {
 
 	public static void main(String[] args) {
         String[] strArr = {"SuperMan", "BatMan", "SpiderMan"}; 
